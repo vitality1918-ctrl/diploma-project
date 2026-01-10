@@ -1,1 +1,107 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+*.pyd
+*.pyo
+*.pdb
+*.egg
+*.egg-info/
+dist/
+build/
+.eggs/
+*.manifest
+*.spec
+*.log
+*.tmp
+*.temp
+*.bak
+*.swp
+*.swo
+*.DS_Store
+*.idea/
+*.vscode/
+.env
+.venv
+venv/
+ENV/
+env/
+
+# Jupyter/Colab
+.ipynb_checkpoints/
+*.nbconvert.ipynb
+*.checkpoint.ipynb
+
+# VSCode
+.vscode/
+
+# OS
+Thumbs.db
+.DS_Store
+ehthumbs.db
+Icon?
+Desktop.ini
+$RECYCLE.BIN/
+
+# Model/data
+*.pt
+*.pth
+*.h5
+*.ckpt
+*.onnx
+*.pb
+*.npz
+*.npy
+*.csv
+*.tsv
+*.xlsx
+*.xls
+*.zip
+*.tar
+*.tar.gz
+*.rar
+*.7z
+*.bak
+*.tmp
+*.log
+*.out
+*.dat
+*.pickle
+*.pkl
+*.joblib
+*.sav
+*.cache
+
+# Windows Zone.Identifier
+*:Zone.Identifier
+
+# Other
+*.pdf
+*.docx
+*.doc
+*.pptx
+*.ppt
+*.mp3
+*.wav
+*.ogg
+*.flac
+*.mp4
+*.avi
+*.mov
+*.mkv
+*.jpg
+*.jpeg
+*.png
+*.gif
+*.bmp
+*.svg
+*.webp
+*.ico
+
+# User secrets
+secrets.*
+.env.*
+
+# Ignore local notebooks outputs
+**/.ipynb_checkpoints/*
 *:Zone.Identifier
