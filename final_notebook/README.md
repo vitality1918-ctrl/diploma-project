@@ -3,7 +3,7 @@
 ## Запуск в Google Colab
 
 1. Откройте ноутбук по ссылке:
-   https://colab.research.google.com/github/vitality1918-ctrl/diploma-project/blob/main/final_notebook/final_inference.ipynb
+   https://colab.research.google.com/github/vitality1918-ctrl/diploma-project/blob/main/final_notebook/5__Финальный_ноутбук_.ipynb
 
 2. Нажмите:
    Runtime → Restart and run all (Среда выполнения → Перезапустить и выполнить всё)
